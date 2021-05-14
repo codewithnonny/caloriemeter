@@ -1,0 +1,13 @@
+package com.codewithnonny.caloriemeter;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CalorieMeterApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CalorieMeterApplication.class, args);
+	}
+
+}
